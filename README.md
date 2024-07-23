@@ -1,4 +1,4 @@
-# coffee_shop_SQL_analytical_project-
+# coffee_shop_SQL_analytical_project
 
 ## Overview
 
