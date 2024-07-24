@@ -3,7 +3,6 @@ SELECT * FROM coffee_shop_sales
 
 SET SQL_SAFE_UPDATES=0;
 
-
 -- Changing date datatype
 UPDATE coffee_shop_sales
 SET transaction_date = STR_TO_DATE(transaction_date, '%m:%d:%Y');
